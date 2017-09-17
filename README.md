@@ -5,3 +5,6 @@ http://www.keeptalkinggame.com/
 
 Module Book
 http://www.bombmanual.com/manual/1/pdf/Bomb-Defusal-Manual_1.pdf
+
+
+Usage is printed on start.
